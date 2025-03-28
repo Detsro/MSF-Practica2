@@ -1,6 +1,6 @@
 
 Practica 2: Sistema Respiratorio
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Detsro/MSF-Practica-1)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Detsro/MSF-Practica2)
 # Modelado de Sistemas Fisiológicos. Práctica 2: Sistema respiratorio [Meraz18210139]
 
 ## Autor
