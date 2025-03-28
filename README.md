@@ -24,7 +24,7 @@ sintonizar los valores óptimos para cada una de las ganancias kP, kI y kD.
 98
  b) 30 respiraciones por minuto con una amplitud (A) de 1:5 cmH2O, es decir, respiración elevada
  o taquipnea.
- 7. Determinar la respuesta a la función sinusoidal [u(t) = Asin!t] en el intervalo t 2 [0;30] (segundos),
+ 7. Determinar la respuesta a la función sinusoidal [u(t) = A sin wt] en el intervalo t 2 [0;30] (segundos),
  en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlador.
  8. Elaborar el diagrama biológico del sistema con BioRender.com.
  9. Discutir los resultados obtenidos en la experimentación in silico y elaborar el reporte de la práctica
